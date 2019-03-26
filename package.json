@@ -1,0 +1,14 @@
+{
+  "name": "node-ionic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Noah Hornak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
